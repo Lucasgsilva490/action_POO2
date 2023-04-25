@@ -28,4 +28,4 @@ jobs:
     - name: Rodando o Programa
       run: |
        cd src
-       java-cp . Main
+       java -cp . Main
